@@ -1,3 +1,14 @@
 Simple script to get pagerank of a website.
 
 Source from internet, I just use it~~
+
+How to use?
+1: Python Language.
+    If you got python in your windows/linux/mac,
+run the script.
+    Just change the domain you can get the pr of it.
+
+2: PHP Language.
+    Upload php script to your host, broswer the url,
+such as http://www.isayme.org/getpr.php?q=www.isayme.org.
+unfortunately
